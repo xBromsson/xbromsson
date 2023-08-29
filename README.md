@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+---
+> In debugging my mind, I debug code; in upgrading my thoughts, I improve algorithms. Coding is just the mechanical expression of my life I've been doing my whole life.
+
 <!--
 **xBromsson/xbromsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
