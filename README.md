@@ -5,7 +5,7 @@
 
 # About Me
 
-I code, I write, I guitar, I fly planes, I game, I dream, I draw, I dance, I play, I eat, I read, I improve.
+I code, I write, I guitar, I fly planes, I game, I dream, I draw, I dance, I play, I improve.
 
 ### :point_right: [Here is My Project Portfolio](https://xbromsson.github.io/portfolio/)
 
