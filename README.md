@@ -25,12 +25,14 @@ _I imagine kids sitting down with their parents for story time. The parent gets 
 
 
 <details>
-<summary> :point_right: Recruiters & Employers Only</summary>
+<summary> Recruiters & Employers Only :point_left: Click Here</summary>
 
   # Beam Me Up, Scotty.
   
  ![JrM4](https://github.com/xBromsson/xbromsson/assets/73408796/19c02780-d89e-457d-853d-b02fd9d420f3)
 </details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbromsson&layout=compact&theme=vue-dark)
 
 <!--
 **xBromsson/xbromsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
