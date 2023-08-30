@@ -15,7 +15,7 @@ I code, I write, I guitar, I fly planes, I game, I dream, I draw, I dance, I pla
 
 
 
-"It's Story Time" is an interactive mobile app that features AI generated bedtime stories for kids. 
+**"It's Story Time"** is an interactive mobile app that features AI generated bedtime stories for kids. 
 
 _I imagine kids sitting down with their parents for story time. The parent gets to choose the lesson to be inbued in the story, the child gets to choose the characters and setting that inspires them, and the AI creatively weaves all of this together into a unique story._
 
