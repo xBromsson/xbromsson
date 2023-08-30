@@ -6,6 +6,8 @@
 
 I code, I write, I guitar, I fly planes, I game, I dream, I draw, I dance, I play, I eat, I read.
 
+### :point_right: [Here is My Project Portfolio](https://xbromsson.github.io/portfolio/)
+
 ---
 
 ### I'm Most Excited About: :point_right: [Its Story Time](https://github.com/xBromsson/bedtime-story)
@@ -19,9 +21,6 @@ _I imagine kids sitting down with their parents for story time. The parent gets 
 ---
 
 
-
-
-## :point_right: [Here is My Project Portfolio](https://xbromsson.github.io/portfolio/)
 
 
 <details>
