@@ -1,8 +1,9 @@
 
 > "In debugging my mind, I debug code; in improving my thoughts, I improve algorithms. Coding is just the mechanical expression of what I've done internally my whole life."
 
+-- Marvin Brown
 
-# About
+# About Me
 
 I code, I write, I guitar, I fly planes, I game, I dream, I draw, I dance, I play, I eat, I read, I improve.
 
@@ -10,7 +11,7 @@ I code, I write, I guitar, I fly planes, I game, I dream, I draw, I dance, I pla
 
 ---
 
-### I'm Most Excited About: :point_right: [Its Story Time](https://github.com/xBromsson/bedtime-story)
+### I'm Most Excited About This: :point_right: [Its Story Time](https://github.com/xBromsson/bedtime-story)
 
 
 
