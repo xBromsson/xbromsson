@@ -32,6 +32,10 @@ _I imagine kids sitting down with their parents for story time. The parent gets 
   # Beam Me Up, Scotty.
   
  ![JrM4](https://github.com/xBromsson/xbromsson/assets/73408796/19c02780-d89e-457d-853d-b02fd9d420f3)
+
+
+<!-- ![7sMx](https://github.com/xBromsson/xbromsson/assets/73408796/ee8515d2-681d-4bcb-8f19-4f4f2ef2fd47) -->
+
 </details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbromsson&layout=compact&theme=vue-dark)
