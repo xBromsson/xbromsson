@@ -38,6 +38,8 @@ _I imagine kids sitting down with their parents for story time. The parent gets 
 
 </details>
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xbromsson&layout=compact&theme=vue-dark)
 
 <!--
