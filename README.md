@@ -25,11 +25,11 @@ _I imagine kids sitting down with their parents for story time. The parent gets 
 
 
 <details>
-<summary>Recruiters & Employers Only</summary>
+<summary> :point_right: Recruiters & Employers Only</summary>
 
   # Beam Me Up, Scotty.
   
-![JrM4](https://github.com/xBromsson/xbromsson/assets/73408796/19c02780-d89e-457d-853d-b02fd9d420f3)
+ ![JrM4](https://github.com/xBromsson/xbromsson/assets/73408796/19c02780-d89e-457d-853d-b02fd9d420f3)
 </details>
 
 <!--
